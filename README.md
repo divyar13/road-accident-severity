@@ -19,9 +19,11 @@ This project focuses on predicting the severity of road accidents using machine 
 #Running the web app
 
 -Install requirements
+
 pip install -r requirements.txt --user
 
 -Run flask web app
+
 python app.py
 
 #Results
