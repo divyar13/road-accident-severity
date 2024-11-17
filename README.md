@@ -1,6 +1,7 @@
 # Road Accident Severity Prediction
 
-#PROJECT DESCRIPTION
+PROJECT DESCRIPTION
+
 Road accidents are a major global concern, causing numerous fatalities and injuries annually. This project aims to predict the severity of road accidents using machine learning techniques, helping to mitigate risks and provide insights for safer road conditions. The project compares several algorithms, including Logistic Regression, Decision Tree, and Random Forest, using data from the United States.
 
 ## Introduction
